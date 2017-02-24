@@ -109,6 +109,8 @@ def processSybase():
 def processDB2():
     print ("DB2 Collector is not yet configured")
 
+def testprocess():
+
 ######### Main Program ##################
 
 
