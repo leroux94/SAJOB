@@ -1,0 +1,29 @@
+9.0
+27
+1       SQLCHAR             0       28      "~"      3     TM_Date_collecte                     ""
+2       SQLCHAR             0       12      "~"      4     TM_Num_exec                          ""
+3       SQLCHAR             0       100     "~"      5     TM_Client                            SQL_Latin1_General_CP1_CI_AS
+4       SQLCHAR             0       100     "~"      6     TM_Type                              SQL_Latin1_General_CP1_CI_AS
+5       SQLCHAR             0       12      "~"      7     TM_Job                               ""
+6       SQLCHAR             0       100     "~"      8     TM_Serveur                           SQL_Latin1_General_CP1_CI_AS
+7       SQLCHAR             0       12      "~"      9     TM_SQL_ID                            ""
+8       SQLCHAR             0       500     "~"      10    TM_Champ_1                           SQL_Latin1_General_CP1_CI_AS
+9       SQLCHAR             0       500     "~"      11    TM_Champ_2                           SQL_Latin1_General_CP1_CI_AS
+10      SQLCHAR             0       500     "~"      12    TM_Champ_3                           SQL_Latin1_General_CP1_CI_AS
+11      SQLCHAR             0       500     "~"      13    TM_Champ_4                           SQL_Latin1_General_CP1_CI_AS
+12      SQLCHAR             0       500     "~"      14    TM_Champ_5                           SQL_Latin1_General_CP1_CI_AS
+13      SQLCHAR             0       500     "~"      15    TM_Champ_6                           SQL_Latin1_General_CP1_CI_AS
+14      SQLCHAR             0       500     "~"      16    TM_Champ_7                           SQL_Latin1_General_CP1_CI_AS
+15      SQLCHAR             0       500     "~"      17    TM_Champ_8                           SQL_Latin1_General_CP1_CI_AS
+16      SQLCHAR             0       500     "~"      18    TM_Champ_9                           SQL_Latin1_General_CP1_CI_AS
+17      SQLCHAR             0       500     "~"      19    TM_Champ_10                          SQL_Latin1_General_CP1_CI_AS
+18      SQLCHAR             0       500     "~"      20    TM_Champ_11                          SQL_Latin1_General_CP1_CI_AS
+19      SQLCHAR             0       500     "~"      21    TM_Champ_12                          SQL_Latin1_General_CP1_CI_AS
+20      SQLCHAR             0       500     "~"      22    TM_Champ_13                          SQL_Latin1_General_CP1_CI_AS
+21      SQLCHAR             0       500     "~"      23    TM_Champ_14                          SQL_Latin1_General_CP1_CI_AS
+22      SQLCHAR             0       500     "~"      24    TM_Champ_15                          SQL_Latin1_General_CP1_CI_AS
+23      SQLCHAR             0       500     "~"      25    TM_Champ_16                          SQL_Latin1_General_CP1_CI_AS
+24      SQLCHAR             0       500     "~"      26    TM_Champ_17                          SQL_Latin1_General_CP1_CI_AS
+25      SQLCHAR             0       500     "~"      27    TM_Champ_18                          SQL_Latin1_General_CP1_CI_AS
+26      SQLCHAR             0       500     "~"      28    TM_Champ_19                          SQL_Latin1_General_CP1_CI_AS
+27      SQLCHAR             0       500     "\r\n"   29    TM_Champ_20                          SQL_Latin1_General_CP1_CI_AS
