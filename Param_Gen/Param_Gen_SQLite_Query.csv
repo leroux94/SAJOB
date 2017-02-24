@@ -1,0 +1,5 @@
+Jobs~SELECT * FROM [Prm_Jobs] where [status] = 1
+Queries~SELECT * FROM [Prm_SqlQueries]
+User~SELECT * FROM [Prm_User]
+Listes~SELECT * FROM [Prm_Listes]
+Server~SELECT * FROM [Prm_Server]

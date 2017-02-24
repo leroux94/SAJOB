@@ -1,0 +1,5 @@
+Jobs~SELECT * FROM [SAJOB_Param].[dbo].[Prm_Jobs] where [status] = 1
+Queries~SELECT * FROM [SAJOB_Param].[dbo].[Prm_SqlQueries]
+User~SELECT * FROM [SAJOB_Param].[dbo].[Prm_User]
+Listes~SELECT * FROM [SAJOB_Param].[dbo].[Prm_Listes]
+Server~SELECT * FROM [SAJOB_Param].[dbo].[Prm_Server]
